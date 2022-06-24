@@ -1,5 +1,9 @@
 # Artifact 1 - Software Engineering and Design
 
+## Links to artifacts
+- [Artifaxt #1 - Enhanced](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-1/enhanced)
+- [Artifaxt #1 - Enhanced](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-1/original)
+
 The artifact that I’ve chosen to enhance for the category of Software Engineering and Design is the code from the final project of the class CS-410 Software Reverse Engineering. This was one of the last projects I did in my Computer Science degree program here at SNHU. The original project tasked us students with reverse engineering a binary software application that the original code had been lost for. We were given the binary file and had to decompile it into assembly and then use reverse engineering skills to reconstruct the program in C++. After reconstructing the program we were tasked with suggesting improvements that could be made to the program and its security. While doing this, I saw numerous design flaws and poor practices in the way the program was written. Because of this I felt this project was the perfect project for me to enhance and showcase my skills in Software Design and Engineering.
 
 I had a number of different ideas for what I could enhance about the code of this project, however I settled on tackling two specific issues. The first was that the program was written in such a way that all of its state was stored entirely in memory (i.e. in variables that were set directly in the program) and none of it was persisted to the hard disk. For some context, the program was a simple CLI that would be used by some sort of fictional investment firm to track customer’s investment choices. There were numerous variables in the code that hardcoded the starting state of the application. This meant that all the customer data was hardcoded. The code for this can be seen here:
