@@ -2,7 +2,7 @@
 
 ## Links to artifacts
 - [Artifaxt #3 - Enhanced](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-3/enhanced)
-- [Artifaxt #3 - Enhanced](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-3/original)
+- [Artifaxt #3 - Original](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-3/original)
 
 ## Narrative
 
