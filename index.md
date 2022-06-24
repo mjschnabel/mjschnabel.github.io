@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Mark Schnabel ePortfolio
 
-You can use the [editor on GitHub](https://github.com/mjschnabel/mjschnabel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ePortfolio for Mark Schnabel. Created for CS-499 The Computer Science Capstone at Southern New Hampshire University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome
 
-### Markdown
+This ePortfolio is the culmination of everything I've done during my time in the Computer Science program at Southern New Hampshire University. It showcases everything I've learned and represents the hard work I put into my degree program.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjschnabel/mjschnabel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Table of contents
+1. [Professional Self Assessment](./self-assessment.html)
+2. [Refinement Plan and Code Review](./code-review-and-refinement-plan.html)
+3. [Artifact #1 - Software Design and Engineering](./artifact-1.html)
+4. [Artifact #2 - Algorithms and Data Structures](./artifact-2.html)
+5. [Artifact #3 - Databases](./artifact-3.html)
