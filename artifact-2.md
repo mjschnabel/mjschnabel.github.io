@@ -1,8 +1,10 @@
 # Artifact 2 - Algorithms and Data Structures
 
 ## Links to artifacts
-- [Artifaxt #2 - Enhanced](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-2/enhanced)
-- [Artifaxt #2 - Original](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-2/original)
+- [Artifact #2 - Enhanced](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-2/enhanced)
+- [Artifact #2 - Original](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-2/original)
+
+## Narrative
 
 For this milestone, the artifact I’ve chosen to enhance is the code from the final project of the class CS-260 Algorithms and Data Structures. This project was completed about halfway through my degree program here at SNHU. The original project tasked us students with creating a variety of Data Structures and Algorithms in C++. We learned about these Algorithms and Data Structures through the entire course and for the final project we had to write a paper describing these Algorithms and data structures and their use case. One of the data structures that we went over in the course was the Linked List. A Linked List is basically a list of elements that is linked together because each element contains a reference to the next element in the list. For my enhancement, I chose to extend the base LinkedList class I created in the course to have more functionality and utilize a new algorithm that the original did not have. I believe that this will demonstrate my proficiency in Data Structures because it shows I can work with Data Structures and build functionality around them, and it also shows I have an understanding of how to work with common Algorithms and can implement them in a real use case.
 
