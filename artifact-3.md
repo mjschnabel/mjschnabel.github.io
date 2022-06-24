@@ -1,5 +1,11 @@
 # Artifact 3 - Databases
 
+## Links to artifacts
+- [Artifaxt #3 - Enhanced](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-3/enhanced)
+- [Artifaxt #3 - Enhanced](https://github.com/mjschnabel/mjschnabel.github.io/tree/main/artifacts/artifact-3/original)
+
+## Narrative
+
 For this milestone, the artifact I decided to enhance was a personal project that I had made when I was first teaching myself JavaScript and programming in general. I originally wanted to enhance my final project from CS-340 Client Server development. That project was an API server which interacted with a MongoDB database. However, I took a long hiatus from school after starting my first professional job in the industry and could not find the original files for the project anywhere and it seemed as if they had been archived in Codio. So instead, I chose to make my enhancement in the spirit of that project by building an API which uses MongoDB on top of my old personal project.
 
 My old personal project was a simple CLI (command line interface) which allowed a user to keep a todo list inside of their terminal. It was a Node.js program and the way it worked was that you would call the program from the terminal and it would print out a menu of options to you. You could then choose from this menu to do basic CRUD operations on all of your list of tasks that needed to be done, like creating new tasks, updating existing tasks and deleting tasks. You can see the menu for the application here:
